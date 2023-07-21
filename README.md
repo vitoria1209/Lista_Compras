@@ -17,3 +17,4 @@ Arquivos do projeto identificados e adicionados ao portfólio:
 ListadeCompras.html
 estilo.html
 Código.gs
+Link do acesso ao projeto:<a href="https://script.google.com/macros/s/AKfycbznXNyeUgqTiLLfMJO6sc_5DPbLnMlrwD5RR5ZxunnxbBQ6Iv9-WYwNCJ_j-pcBcQxQaA/exec " > lista de compras
